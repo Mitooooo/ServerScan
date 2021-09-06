@@ -1,3 +1,6 @@
+针对air进行更改，通过go.mod来管理包
+-----------------------------------------------
+下面是原来项目的介绍等等，更改的东西会写在这行文字的上方。
 # ServerScan
 
 ![Author](https://img.shields.io/badge/Author-Trim-blueviolet)  ![Bin](https://img.shields.io/badge/servercan-Bin-ff69b4)  ![build](https://img.shields.io/badge/build-passing-green.svg)  ![](https://img.shields.io/badge/language-golang-blue.svg)
